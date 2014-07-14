@@ -9,4 +9,4 @@ Usage :
     Press control+q
   
 Note:
-  The webcrawler keeps on crawling, to s
+  here  i have not handled issues related to  site policies for crawling.
